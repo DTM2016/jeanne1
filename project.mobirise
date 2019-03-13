@@ -2527,17 +2527,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/bodywave1-250x-1-250x250.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bodywave2-250x-1-250x250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bodywave1-250x-250x238.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -2545,6 +2535,16 @@
                 "title": "title 3",
                 "text": "text 3",
                 "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bodywave2-250x-250x238.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
               }
             ],
             "fullScreen": true,
