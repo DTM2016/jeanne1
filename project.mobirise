@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "jeanHair",
-    "currentPage": "wig.html",
+    "currentPage": "curly.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1385,17 +1385,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/straight2-250x-250x238.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/straight1-250x-250x238.jpg",
+                "image": "@PROJECT_PATH@/assets/images/curly2-250x-1-250x238.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -1403,6 +1393,16 @@
                 "title": "title 3",
                 "text": "text 3",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/curly1-250x-1-250x238.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
               }
             ],
             "fullScreen": true,
@@ -1968,17 +1968,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/straight2-250x-250x238.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/straight1-250x-250x238.jpg",
+                "image": "@PROJECT_PATH@/assets/images/curly2-250x-1-250x238.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -1986,6 +1976,16 @@
                 "title": "title 3",
                 "text": "text 3",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/curly1-250x-1-250x238.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
               }
             ],
             "fullScreen": true,
