@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "jeanHair",
-    "currentPage": "wig.html",
+    "currentPage": "bodywave.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2527,7 +2527,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/body-wave1-739x728.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bodywave1-250x-250x250.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -2537,7 +2537,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/body-wave2-739x728.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bodywave2-250x-250x250.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -2551,7 +2551,7 @@
             "showCaptions": false,
             "hideControls": false,
             "responsive": "1",
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": 0,
             "captionsEffect": "slide",
             "showBullets": false,
@@ -2559,11 +2559,11 @@
             "timeout": 2,
             "duration": 2,
             "customSize": true,
-            "customWidth": "739",
-            "customHeight": "728",
+            "customWidth": "250",
+            "customHeight": "250",
             "size": "1024x576",
-            "width": "739",
-            "height": "728"
+            "width": "250",
+            "height": "250"
           },
           "articleLayout": false,
           "alias": "wowslider",
