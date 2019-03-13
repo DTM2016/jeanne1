@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "jeanHair",
-    "currentPage": "index.html",
+    "currentPage": "wig.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4365,7 +4365,7 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "louvers",
+            "animType": "fade",
             "theme": "absent",
             "slides": [
               {
