@@ -527,7 +527,7 @@
               "background-color": "@bg-value"
             },
             ".media-container-row .mbr-text": {
-              "color": "#149dcc"
+              "color": "#cc2952"
             }
           },
           "_name": "footer6",
