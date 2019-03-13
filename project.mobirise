@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "jeanHair",
-    "currentPage": "page8.html",
+    "currentPage": "curly.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1985,7 +1985,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               }
             ],
             "fullScreen": true,
