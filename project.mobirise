@@ -4364,7 +4364,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/peach-250x250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wig-beige-250x250.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -4374,7 +4374,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/pink-250x250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wig-blonde-250x250.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -4384,7 +4384,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/red-250x250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wig-green-250x250.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -4394,7 +4394,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/beige-250x250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wig-peach-250x250.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -4404,7 +4404,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/blond-1-250x250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wig-pink-250x250.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -4414,7 +4414,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/green-250x250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wig-red-250x250.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
