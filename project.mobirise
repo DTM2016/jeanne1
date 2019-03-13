@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "jeanHair",
-    "currentPage": "bodywave.html",
+    "currentPage": "curly.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
     "siteFonts": [],
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "4.9.5",
     "mcShopcart": {
       "email": "dtmxxx2017@gmail.com"
@@ -1918,21 +1918,11 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "blur",
+            "animType": "fade",
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/curly2-739x728.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/curly1-739x728.jpg",
+                "image": "@PROJECT_PATH@/assets/images/curly1-250x-250x238.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -1940,25 +1930,35 @@
                 "title": "title 3",
                 "text": "text 3",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/curly2-250x-250x238.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
               }
             ],
             "fullScreen": true,
             "showCaptions": false,
             "hideControls": false,
             "responsive": "1",
-            "paddingTop": "2",
-            "paddingBottom": 0,
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "captionsEffect": "slide",
             "showBullets": false,
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": 2,
             "customSize": true,
-            "customWidth": "739",
-            "customHeight": "728",
+            "customWidth": "250",
+            "customHeight": "250",
             "size": "1024x576",
-            "width": "739",
-            "height": "728"
+            "width": "250",
+            "height": "250"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -1966,29 +1966,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-19"
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-section-subtitle": {
-              "color": "#767676"
-            },
-            ".mbr-section-subtitle B": {
-              "color": "#149dcc"
-            }
-          },
-          "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Curly Black Hair</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><b>Curly Black Hair</b></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rkrdfeSjkP",
-          "_anchor": "content4-15",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_anchor": "wowslider-1d"
         },
         {
           "alias": false,
