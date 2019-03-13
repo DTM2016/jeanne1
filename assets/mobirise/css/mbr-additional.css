@@ -1783,21 +1783,12 @@ body {
 .cid-rksHxPVSOt blockquote {
   color: #767676;
 }
-.cid-rksRtdnDyX {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-rksRtdnDyX P {
-  color: #767676;
-}
 .cid-rksFtNJuxu {
   background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 0px;
 }
 .cid-rksFtNJuxu .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-rksFtNJuxu .mbr-figure {
   margin: 0 auto;
@@ -1829,7 +1820,7 @@ body {
 }
 .cid-rkwNZpGDTd {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rkwNZpGDTd .card-box {
