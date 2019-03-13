@@ -5711,10 +5711,10 @@
             "duration": 2,
             "customSize": true,
             "customWidth": "250",
-            "customHeight": "250",
+            "customHeight": "238",
             "size": "1024x576",
             "width": "250",
-            "height": "250"
+            "height": "238"
           },
           "articleLayout": false,
           "alias": "wowslider",
